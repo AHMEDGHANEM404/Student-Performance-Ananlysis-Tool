@@ -84,6 +84,7 @@ then for first time sign up with a username and password while keeping xampp/wam
 
 #### Made By:
 Amanjot Singh(1610991092)
+
 Ameesha(1610991094)
 
 #### Acknowledgements
